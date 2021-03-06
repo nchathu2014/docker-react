@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Docker-React App [![Build Status](https://travis-ci.org/nchathu2014/docker-react.svg?branch=master)](https://travis-ci.org/nchathu2014/docker-react)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This app is for learning CI/CD pipeline with the
+technologies docker,Travis-CI, AWS
 
 ## Available Scripts
 
