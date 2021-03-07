@@ -4,6 +4,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      <div>
+        <h1>I was here :) => Ghost@SL</h1>
+      </div>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -15,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          This text changed....!!!
+          Learn React
         </a>
       </header>
     </div>
